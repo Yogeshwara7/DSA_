@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Yogeshwara7/DSA_/tree/master/0066-plus-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Yogeshwara7/DSA_/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -55,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Yogeshwara7/DSA_/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Yogeshwara7/DSA_/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+## Simulation
+|  |
+| ------- |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Yogeshwara7/DSA_/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 <!---LeetCode Topics End-->
