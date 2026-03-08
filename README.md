@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yogeshwara7/DSA_/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Yogeshwara7/DSA_/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yogeshwara7/DSA_/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/Yogeshwara7/DSA_/tree/master/0414-third-maximum-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Yogeshwara7/DSA_/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Yogeshwara7/DSA_/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yogeshwara7/DSA_/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/Yogeshwara7/DSA_/tree/master/0414-third-maximum-number) |
 ## Trie
 |  |
 | ------- |
