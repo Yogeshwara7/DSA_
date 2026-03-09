@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Yogeshwara7/DSA_/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yogeshwara7/DSA_/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Yogeshwara7/DSA_/tree/master/0414-third-maximum-number) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/Yogeshwara7/DSA_/tree/master/0674-longest-continuous-increasing-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
