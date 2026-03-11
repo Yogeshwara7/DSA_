@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Yogeshwara7/DSA_/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yogeshwara7/DSA_/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Yogeshwara7/DSA_/tree/master/0066-plus-one) |
+| [0090-subsets-ii](https://github.com/Yogeshwara7/DSA_/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Yogeshwara7/DSA_/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/Yogeshwara7/DSA_/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yogeshwara7/DSA_/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Yogeshwara7/DSA_/tree/master/0090-subsets-ii) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Yogeshwara7/DSA_/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Simulation
 |  |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Yogeshwara7/DSA_/tree/master/0128-longest-consecutive-sequence) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/Yogeshwara7/DSA_/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
