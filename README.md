@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Yogeshwara7/DSA_/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Yogeshwara7/DSA_/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Yogeshwara7/DSA_/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Yogeshwara7/DSA_/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Yogeshwara7/DSA_/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yogeshwara7/DSA_/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Yogeshwara7/DSA_/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Yogeshwara7/DSA_/tree/master/2932-maximum-strong-pair-xor-i) |
 ## String
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yogeshwara7/DSA_/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Yogeshwara7/DSA_/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Sorting
 |  |
 | ------- |
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Yogeshwara7/DSA_/tree/master/0014-longest-common-prefix) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Yogeshwara7/DSA_/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Math
 |  |
 | ------- |
@@ -81,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/Yogeshwara7/DSA_/tree/master/0090-subsets-ii) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Yogeshwara7/DSA_/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Yogeshwara7/DSA_/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Simulation
 |  |
 | ------- |
