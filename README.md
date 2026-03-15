@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Yogeshwara7/DSA_/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yogeshwara7/DSA_/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Yogeshwara7/DSA_/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Yogeshwara7/DSA_/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yogeshwara7/DSA_/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Yogeshwara7/DSA_/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Yogeshwara7/DSA_/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yogeshwara7/DSA_/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/Yogeshwara7/DSA_/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Yogeshwara7/DSA_/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Yogeshwara7/DSA_/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yogeshwara7/DSA_/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Yogeshwara7/DSA_/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Yogeshwara7/DSA_/tree/master/2932-maximum-strong-pair-xor-i) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Yogeshwara7/DSA_/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Yogeshwara7/DSA_/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Yogeshwara7/DSA_/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yogeshwara7/DSA_/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Yogeshwara7/DSA_/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Yogeshwara7/DSA_/tree/master/0561-array-partition) |
