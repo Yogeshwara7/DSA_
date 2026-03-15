@@ -4,19 +4,20 @@ class Solution {
         int n = numbers.length;
         int[] arr = new int[2];
         int i=0;
-        int j=i+1;
+        int j=n-1;
 
-        while(i<n && j <n){
+        while(i<j){
             if(numbers[i]+numbers[j] == target){
                 arr[0]=i+1;
                 arr[1]=j+1;
-                break;
+                return arr;
             }
-                j++;
-                if(j==n){
-                    i++;
-                    j=i+1;
-                }
+            else if(numbers[i]+numbers[j]<target){
+                i++;
+            }
+            else{
+                j--;
+            }
         }
         return arr;
     }
