@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Yogeshwara7/DSA_/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Yogeshwara7/DSA_/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yogeshwara7/DSA_/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Yogeshwara7/DSA_/tree/master/0031-next-permutation) |
 | [0066-plus-one](https://github.com/Yogeshwara7/DSA_/tree/master/0066-plus-one) |
 | [0090-subsets-ii](https://github.com/Yogeshwara7/DSA_/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Yogeshwara7/DSA_/tree/master/0128-longest-consecutive-sequence) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Yogeshwara7/DSA_/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Yogeshwara7/DSA_/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yogeshwara7/DSA_/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Yogeshwara7/DSA_/tree/master/0031-next-permutation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yogeshwara7/DSA_/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yogeshwara7/DSA_/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
