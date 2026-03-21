@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Yogeshwara7/DSA_/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Yogeshwara7/DSA_/tree/master/0066-plus-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Yogeshwara7/DSA_/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Divide and Conquer
