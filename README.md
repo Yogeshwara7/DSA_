@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yogeshwara7/DSA_/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Yogeshwara7/DSA_/tree/master/0014-longest-common-prefix) |
+| [0038-count-and-say](https://github.com/Yogeshwara7/DSA_/tree/master/0038-count-and-say) |
 ## Sliding Window
 |  |
 | ------- |
