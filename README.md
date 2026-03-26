@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Yogeshwara7/DSA_/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Yogeshwara7/DSA_/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Yogeshwara7/DSA_/tree/master/0191-number-of-1-bits) |
 ## Counting
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Yogeshwara7/DSA_/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/Yogeshwara7/DSA_/tree/master/0191-number-of-1-bits) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Yogeshwara7/DSA_/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Yogeshwara7/DSA_/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Simulation
