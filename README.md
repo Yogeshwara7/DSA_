@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Yogeshwara7/DSA_/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yogeshwara7/DSA_/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Yogeshwara7/DSA_/tree/master/0383-ransom-note) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Yogeshwara7/DSA_/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Yogeshwara7/DSA_/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Yogeshwara7/DSA_/tree/master/2932-maximum-strong-pair-xor-i) |
 ## String
@@ -69,10 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Yogeshwara7/DSA_/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/Yogeshwara7/DSA_/tree/master/0038-count-and-say) |
 | [0383-ransom-note](https://github.com/Yogeshwara7/DSA_/tree/master/0383-ransom-note) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Yogeshwara7/DSA_/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yogeshwara7/DSA_/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Yogeshwara7/DSA_/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Yogeshwara7/DSA_/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Sorting
 |  |
