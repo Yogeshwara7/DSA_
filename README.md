@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Yogeshwara7/DSA_/tree/master/0561-array-partition) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Yogeshwara7/DSA_/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Yogeshwara7/DSA_/tree/master/2932-maximum-strong-pair-xor-i) |
+| [2965-find-missing-and-repeated-values](https://github.com/Yogeshwara7/DSA_/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Yogeshwara7/DSA_/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Yogeshwara7/DSA_/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Yogeshwara7/DSA_/tree/master/2932-maximum-strong-pair-xor-i) |
+| [2965-find-missing-and-repeated-values](https://github.com/Yogeshwara7/DSA_/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Yogeshwara7/DSA_/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Yogeshwara7/DSA_/tree/master/0066-plus-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Yogeshwara7/DSA_/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2965-find-missing-and-repeated-values](https://github.com/Yogeshwara7/DSA_/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -149,4 +152,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Yogeshwara7/DSA_/tree/master/0074-search-a-2d-matrix) |
+| [2965-find-missing-and-repeated-values](https://github.com/Yogeshwara7/DSA_/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
