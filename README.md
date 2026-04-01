@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Yogeshwara7/DSA_/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Yogeshwara7/DSA_/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Yogeshwara7/DSA_/tree/master/0039-combination-sum) |
+| [0054-spiral-matrix](https://github.com/Yogeshwara7/DSA_/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Yogeshwara7/DSA_/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Yogeshwara7/DSA_/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Yogeshwara7/DSA_/tree/master/0075-sort-colors) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Yogeshwara7/DSA_/tree/master/0054-spiral-matrix) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Yogeshwara7/DSA_/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Greedy
 |  |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Yogeshwara7/DSA_/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Yogeshwara7/DSA_/tree/master/0074-search-a-2d-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/Yogeshwara7/DSA_/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
