@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yogeshwara7/DSA_/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Yogeshwara7/DSA_/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/Yogeshwara7/DSA_/tree/master/0038-count-and-say) |
+| [0058-length-of-last-word](https://github.com/Yogeshwara7/DSA_/tree/master/0058-length-of-last-word) |
 | [0383-ransom-note](https://github.com/Yogeshwara7/DSA_/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Yogeshwara7/DSA_/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Sliding Window
